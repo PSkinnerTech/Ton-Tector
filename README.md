@@ -1,4 +1,5 @@
- # Ton-Tector
+
+# Ton-Tector
 
 ![Ton-Tector Device](./img/ton-tector1.jpeg)
 
@@ -10,7 +11,7 @@ Ton-Tector is a revolutionary device combining blockchain technology with enviro
 
 ## Who I Am
 
-My name is Patrick Skinner, and I'm the Lead DevRel for Forward Research | Arweave. I bring my experience as a former Paratrooper Medic to my work, driven by a passion for building blockchain technology that provides tangible benefits in real-world situations. I am dedicated to developing solutions that can truly help those in need, especially in critical scenarios. You can follow my work and updates on [GitHub](https://github.com/PSkinnerTech), [X](https://x.com/PSkinnerTech), and visit my website at [patrickskinner.tech](https://patrickskinner.tech/).
+My name is Patrick Skinner, and I'm the Lead DevRel for Forward Research | Arweave. I bring my experience as a former Paratrooper Medic to my work, driven by a passion for building blockchain technology that provides tangible benefits in real-world situations. I am dedicated to developing solutions that can truly help those in need, especially in critical scenarios. You can follow my work and updates on [GitHub](https://github.com/PSkinnerTech), [X](https://x.com/PSkinnerTech).
 
 ## Use Case
 
